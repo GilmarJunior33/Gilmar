@@ -1,3 +1,3 @@
 # Gilmar
 Olá Devs Ceos
-💻Trabalho com programador em geral
+💻Trabalho como programador em geral
